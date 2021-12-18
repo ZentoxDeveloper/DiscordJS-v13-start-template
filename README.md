@@ -1,23 +1,18 @@
-# 📃 TEMPLATE DiscordJS v13
+# 📃  DiscordJS v13 Bot TEMPLATE
 
-FREE TO USE FOR YOUR DiscordJS Projects.
+This is a free to use discord v13 files for the startup of your own discord bot.
 
 ## 🗳 INSTALLATION
 
 ```bash
-  git clone https://github.com/nog-g/discordjs-template-v13.git
-  cd discordjs-template-v13
+  git clone https://github.com/ZentoxDeveloper/DiscordJS-v13-start-template
+  cd DiscordJS-v13-start-template
   npm install
 ```
 
 ## ✅ Start project
 
-Register commands first :
-```bash
-  npm run register
-```
-
-And start bot after :
+Bot startup:
 ```bash
   npm run dev
 ```
