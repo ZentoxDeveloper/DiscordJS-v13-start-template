@@ -1,0 +1,24 @@
+{
+  "name": "discordjs-template-v13",
+  "version": "1.0.0",
+  "description": "DiscordJS Template By NOGG",
+  "main": "index.js",
+  "scripts": {
+    "register": "node ./deploy-commands.js",
+    "dev": "node ."
+  },
+  "author": {
+    "name": "NOGG",
+    "email": "nog-g@hotmail.com",
+    "url": "https://github.com/nog-g"
+  },
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
