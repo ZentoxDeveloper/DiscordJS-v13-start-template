@@ -7,12 +7,12 @@ This is my own starting bot template that I always use when creating my discord 
 ```bash
   git clone https://github.com/ZentoxDeveloper/DiscordJS-v13-start-template
   cd DiscordJS-v13-start-template
-  npm install
+  npm install --save
 ```
 
 ## 🏁 Start The Bot
 ```bash
-  npm run dev
+  node .
 ```
  
  ## ✅ Terms Of Use
