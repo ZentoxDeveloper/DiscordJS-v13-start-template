@@ -6,3 +6,11 @@ module.exports = {
         client.user.setActivity('TV', { type: 'WATCHING' })
 	},
 };
+
+/**
+ * @INFO
+ * This bot is coded by @Mr. Dragon#4025 | https://discord.gg/VjyejfwPcm
+ * @INFO
+ * Work for ZentoxDevelopment | https://development.zentox.net
+ * @INFO
+ */
