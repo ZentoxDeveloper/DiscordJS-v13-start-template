@@ -42,4 +42,12 @@ client.on('interactionCreate', async interaction => {
   
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(config.token);
+
+/**
+ * @INFO
+ * This bot is coded by @Mr. Dragon#4025 | https://discord.gg/VjyejfwPcm
+ * @INFO
+ * Work for ZentoxDevelopment | https://development.zentox.net
+ * @INFO
+ */
