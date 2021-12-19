@@ -42,7 +42,7 @@ client.on('interactionCreate', async interaction => {
   
 });
 
-client.login(config.token);
+client.login(process.env.BOT_TOKEN);
 
 /**
  * @INFO
