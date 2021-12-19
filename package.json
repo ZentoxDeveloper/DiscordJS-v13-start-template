@@ -4,13 +4,12 @@
   "description": "DiscordJS Template By NOGG",
   "main": "index.js",
   "scripts": {
-    "register": "node ./deploy-commands.js",
-    "dev": "node ."
+    "start": "node ."
   },
   "author": {
-    "name": "NOGG",
-    "email": "nog-g@hotmail.com",
-    "url": "https://github.com/nog-g"
+    "name": "ZentoxDeveloper",
+    "email": "github@zentox.net",
+    "url": "https://github.com/ZentoxDeveloper"
   },
   "license": "GPL-3.0",
   "dependencies": {
